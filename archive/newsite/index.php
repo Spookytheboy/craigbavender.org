@@ -2,14 +2,14 @@
 /**
  * Craigbavender.org
  *
- * Page: Blog
+ * Page: Archive - New Site
  * Author: Craig
  * Date: 03/13/2020
  */
 
 $config = [
-	'activePage' => 'blog',
-	'pageTitle'  => 'Blog | Craigbavender.org',
+	'activePage' => 'newsite',
+	'pageTitle'  => 'New Site | Craigbavender.org',
 	'theme' 	 => 'default',
 ]; 
 ?>

@@ -20,17 +20,28 @@ error_reporting(E_ALL);
 	<title><?php echo $config['pageTitle']; ?></title>
 
 	<link href="https://craigbavender.org/assets/css/bootstrap.min.css" rel="stylesheet">
-
+	<link href="https://craigbavender.org/assets/css/main.css" rel="stylesheet">
+	
 	<header>
-		<nav>
-			<ul>
-				<li><a href="https://craigbavender.org">Home</a></li>
-				<li><a href="https://craigbavender.org/about">About</a></li>
-				<li><a href="https://craigbavender.org/online">Online</a></li>
-				<li><a href="https://craigbavender.org/blog">Blog</a></li>
-				<li><a href="https://craigbavender.org/projects">Projects</a></li>
-			</ul>
-		</nav>
+		<div class="container">
+			<div class="row">
+				<div class="col-4">
+					<div class="img-and-name">
+						<a href="https://craigbavender.org">
+							<div class="name">craig bavender</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-8">
+					<nav>
+						<ul>
+							<li><a href="https://craigbavender.org/archive">archive</a></li>
+							<li><a href="https://craigbavender.org/projects">projects</a></li>
+							<li><a href="https://craigbavender.org/about">about</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
 	</header>
-
 </head>
