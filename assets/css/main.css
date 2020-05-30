@@ -4,6 +4,9 @@ html {
 a:hover {
 	text-decoration: none;
 }
+body {
+	font-family: Helvetica;
+}
 body a {
 	color: #ffad1e;
 }
@@ -28,7 +31,7 @@ header {
 	margin-bottom: 30px;
 }
 header .container {
-	border-bottom: 4px solid #000;
+	border-bottom: 3px solid #000;
 	padding: 0;
 }
 body .container {
@@ -42,7 +45,7 @@ header .img-and-name .img img {
 	max-width: 90px;
 }
 header .img-and-name .name {
-	font-weight: bold;
+	// font-weight: bold;
 	font-size: 32px;
 	color: #000;
 }
