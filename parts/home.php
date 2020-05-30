@@ -9,15 +9,14 @@
 ?>
 
 <div class="row">
-	<div class="col-6 homepage-section">
+	<div class="col-12 homepage-section">
 		<h2>About</h2>
 		
-		<p>Programmer and artist living and working in LA.</p>
-		<p>Full Stack Developer at <a href="https://crigenetics.com/">CRI Genetics</a>, <nobr>previously <a href="https://rarebirdinc.com">Rare Bird Inc</a></nobr>.</p>
-		<p>Illustrator, printmaker, owner and operator at <a href="https://spookyprint.com/">Spooky Print</a>.</p>
-		<p>&bull;&nbsp;<a href="https://craigbavender.org/assets/resume-CraigBavender-20191208.pdf">Resume / CV</a></br>&bull;&nbsp;<a href="mailto:craigbavender@gmail.com">craigbavender@gmail.com</a></p>
+		<p>Programmer and artist living and working in LA. Illustrator, printmaker, owner and operator at <a href="https://www.spookyprint.com/">Spooky Print</a>.</p>
+		<p>Full Stack Developer at <a href="https://crigenetics.com/">CRI Genetics</a>. Previously <a href="https://rarebirdinc.com">Rare Bird Inc</a>.</p>
+		<p><a href="https://craigbavender.org/about">Read More &raquo;</a></p>
 	</div>
-	<div class="col-6 homepage-section">
+	<div class="col-12 homepage-section">
 		<h2>Online</h2>
 		
 		<ul>
@@ -28,7 +27,7 @@
 			<li><a href="https://stackoverflow.com/users/2223003/spookytheboy">Stack Overflow</a></li>
 		</ul>
 	</div>
-	<div class="col-6 homepage-section">
+	<div class="col-12 homepage-section">
 		<h2>Projects</h2>
 		
 		<ul>
@@ -39,12 +38,13 @@
 		
 		<p><a href="https://craigbavender.org/projects">View All &raquo;</a></p>
 	</div>
-	<div class="col-6 homepage-section">
+	<div class="col-12 homepage-section">
 		<h2>Archive</h2>
 		
 		<ul>
+			<li><a href="https://craigbavender.org/archive/new-projects-2020">Update - New Projects!</a> <span class="faded">(May 30, 2020)</span></li>
+			<li><a href="https://craigbavender.org/archive/reading-list-2020">Reading List 2020</a> <span class="faded">(on-going)</span></li>
 			<li><a href="https://craigbavender.org/archive/newsite">New Site</a> <span class="faded">(Mar 3, 2020)</span></li>
-			<li><a href="https://craigbavender.org/archive/reading-list-2019">Reading List 2019</a> <span class="faded">(Jan 5, 2020)</span></li>
 		</ul>
 		
 		<p><a href="https://craigbavender.org/archive">View All &raquo;</a></p>

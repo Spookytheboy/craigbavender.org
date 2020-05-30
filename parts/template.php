@@ -9,7 +9,7 @@
 ?>
 
 <body>
-<div class="container">
+<div class="container-fluid">
 	<?php include("/var/www/craigbavender.org/parts/{$config['activePage']}.php") ?>
 </div>
 </body>

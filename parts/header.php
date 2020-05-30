@@ -42,16 +42,30 @@
 
 	
 	<header>
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row">
-				<div class="col-4">
-					<div class="img-and-name">
+				<div class="col-12">
+					<div style="display: inline-block; padding-right: 10px;">
 						<a href="https://craigbavender.org">
-							<div class="name">Craig Bavender</div>
+							<img src="https://craigbavender.org/assets/img/spookyprintavatar.png" style="width: 66.6px; margin-top: -50px;">
 						</a>
 					</div>
+					<div style="display: inline-block;">
+						<div class="img-and-name">
+							<a href="https://craigbavender.org">
+								<div class="name">Craig Bavender</div>
+							</a>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="https://craigbavender.org/archive">archive</a></li>
+								<li><a href="https://craigbavender.org/projects">projects</a></li>
+								<li><a href="https://craigbavender.org/about">about</a></li>
+							</ul>
+						</nav>
+					</div>
 				</div>
-				<div class="col-8">
+				<!-- <div class="col-8">
 					<nav>
 						<ul>
 							<li><a href="https://craigbavender.org/archive">archive</a></li>
@@ -59,7 +73,7 @@
 							<li><a href="https://craigbavender.org/about">about</a></li>
 						</ul>
 					</nav>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</header>
