@@ -16,10 +16,15 @@
 	
 	<meta property="twitter:card" content="Summary">
 	<meta property="twitter:site" content="craigbavender.org">
-	<meta property="twitter:title" content="Los Angeles Full Stack PHP Developer">
-	<meta property="twitter:description" content="Programmer and artist and living in LA">
-	<meta property="twitter:creator" content="@spookytheboy">
-	<meta property="twitter:image:src" content="https://craigbavender.org/assets/img/card-bg-default.png">        
+	<meta property="twitter:title" content="<?php echo $config['pageTitle']; ?>">
+	<meta property="twitter:description" content="Full Stack Developer && SWE Manager living and working in Indianapolis IN">
+	<meta property="twitter:creator" content="@spookyxcraig">
+
+	<?php if(!empty($config['card-img'])) { ?>
+		<meta property="twitter:image:src" content="<?php echo $config['card-img']; ?>">        
+	<?php } else { ?>
+		<meta property="twitter:image:src" content="https://craigbavender.org/assets/img/card-bg-default.png">        
+	<?php } ?>
 	<meta property="twitter:domain" content="craigbavender.org">
 	
 	

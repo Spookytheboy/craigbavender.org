@@ -12,16 +12,15 @@
 	<div class="col-12 homepage-section">
 		<h2>About</h2>
 		
-		<p>Programmer and artist living and working in LA. Illustrator, printmaker, owner and operator at <a href="https://www.spookyprint.com/">Spooky Print</a>.</p>
-		<p>Full Stack Developer at <a href="https://crigenetics.com/">CRI Genetics</a>. Previously <a href="https://rarebirdinc.com">Rare Bird Inc</a>.</p>
+		<p>Programmer and artist living and working in Indianapolis, IN. Illustrator, printmaker, owner and operator at <a href="https://www.instagram.com/spookyprint">Spooky Print</a>.</p>
+		<p>Full Stack Developer + Software Eng Manager at <a href="https://crigenetics.com/">CRI Genetics</a>. Previously <a href="https://rarebirdinc.com">Rare Bird Inc</a>.</p>
 		<p><a href="https://craigbavender.org/about">Read More &raquo;</a></p>
 	</div>
 	<div class="col-12 homepage-section">
 		<h2>Online</h2>
 		
 		<ul>
-			<li><a href="https://twitter.com/spookytheboy">Twitter</a></li>
-			<li><a href="https://www.instagram.com/spookytheboy/">Instagram</a></li>
+			<li><a href="https://www.instagram.com/spookyxcraig/">Instagram</a></li>
 			<li><a href="https://www.linkedin.com/in/craig-bavender-362172100/">Linkedin</a></li>
 			<li><a href="https://github.com/spookytheboy">Github</a></li>
 			<li><a href="https://stackoverflow.com/users/2223003/spookytheboy">Stack Overflow</a></li>
@@ -42,8 +41,10 @@
 		<h2>Archive</h2>
 		
 		<ul>
-			<li><a href="https://craigbavender.org/archive/new-projects-2020">Update - New Projects!</a> <span class="faded">(May 30, 2020)</span></li>
-			<li><a href="https://craigbavender.org/archive/reading-list-2020">Reading List 2020</a> <span class="faded">(on-going)</span></li>
+			<li><a href="https://craigbavender.org/archive/reading-list-2023">Reading List 2023</a> <span class="faded">(on-going)</span></li>
+			<li><a href="https://craigbavender.org/archive/reading-list-2021">Reading List 2021</a></li>
+			<li><a href="https://craigbavender.org/archive/reading-list-2020">Reading List 2020</a></li>
+			<li><a href="https://craigbavender.org/archive/new-projects-2020">2020 Projects</a> <span class="faded">(May 30, 2020)</span></li>
 			<li><a href="https://craigbavender.org/archive/newsite">New Site</a> <span class="faded">(Mar 3, 2020)</span></li>
 		</ul>
 		

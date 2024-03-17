@@ -11,6 +11,7 @@ $config = [
 	'activePage' => 'reading-list-2020',
 	'pageTitle'  => 'Reading List 2020 | Craigbavender.org',
 	'theme' 	 => 'default',
+	'card-img'   => 'https://craigbavender.org/assets/img/card-bg-reading-list.png'
 ]; 
 ?>
 

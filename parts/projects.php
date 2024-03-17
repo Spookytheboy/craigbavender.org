@@ -11,16 +11,6 @@
 <div class="row">
 	<div class="col-12">
 		<h2>Projects</h2>
-		
-		<div class="project">
-			<div class="name"><a href="https://craigbavender.org/projects/cerberustimer">cerberus "no ghosts" method timer</a></div>
-			<div class="details">
-				<b>Date:</b> 2020<br>
-				<b>Description:</b> Custom web app built to assist in efficiently defeating an OSRS boss "Cerberus"<br>
-				<b>Technologies:</b> Javascript, HTML, AJAX<br>
-				<b>Code:</b> <a href="https://github.com/Spookytheboy/cerberus-no-ghosts-timer" target="_blank">https://github.com/Spookytheboy/cerberus-no-ghosts-timer</a>
-			</div>
-		</div>
 
 		<div class="project">
 			<div class="name"><a href="https://craigbavender.org/projects/spookyprintingcompany">spooky printing company</a></div>
@@ -59,6 +49,16 @@
 				<b>Description:</b> A custom internet radio station, based on the Nintendo game series: Animal Crossing. Utilizes local time zones to match in-game repeating calm music.<br>
 				<b>Technologies:</b> Custom Javascript, Webhooks, HTML, CSS, Google Drive<br>
 				<b>Code:</b> <span class="faded">private</span>
+			</div>
+		</div>
+
+		<div class="project">
+			<div class="name"><a href="https://craigbavender.org/projects/cerberustimer">cerberus "no ghosts" method timer</a></div>
+			<div class="details">
+				<b>Date:</b> 2020<br>
+				<b>Description:</b> Custom web app built to assist in efficiently defeating an OSRS boss "Cerberus"<br>
+				<b>Technologies:</b> Javascript, HTML, AJAX<br>
+				<b>Code:</b> <a href="https://github.com/Spookytheboy/cerberus-no-ghosts-timer" target="_blank">https://github.com/Spookytheboy/cerberus-no-ghosts-timer</a>
 			</div>
 		</div>
 		

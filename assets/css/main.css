@@ -132,3 +132,12 @@ h2 {
 		margin-top: 10px !important;
 	}
 }
+
+span.thoughts {
+	padding-left: 10px;
+	margin-left: 10px;
+	display: block;
+	border-left: 1px solid #cccdde;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
