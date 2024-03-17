@@ -13,7 +13,8 @@
 		<h2>Archive</h2>
 		
 		<ul>
-			<li><a href="https://craigbavender.org/archive/reading-list-2023">Reading List 2023</a> <span class="faded">(on-going)</span></li>
+			<li><a href="https://craigbavender.org/archive/2024-update">2024 Update</a> <span class="faded">(Mar 17, 2024)</span></li>
+			<li><a href="https://craigbavender.org/archive/reading-list-2023">Reading List 2023</a></li>
 			<li><a href="https://craigbavender.org/archive/reading-list-2021">Reading List 2021</a></li>
 			<li><a href="https://craigbavender.org/archive/new-projects-2020">2020 Projects</a></span></li>
 			<li><a href="https://craigbavender.org/archive/reading-list-2020">Reading List 2020</a></li>

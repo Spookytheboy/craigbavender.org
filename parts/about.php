@@ -20,13 +20,13 @@
 		<p>Programmer and artist living and working in Indianapolis, IN.</p>
 
 		<ul>
-			<li>Coffee addicted</li>
-			<li>Critically nostalgic</li>
-			<li>Salad gang</li>
+			<li>Self experimenter</li>
+			<li>Coffee addict</li>
+			<li>Excessively nostalgic</li>
 		</ul>
 		
-		<p>Full Stack Developer + Software Eng Manager at <a href="https://crigenetics.com/">CRI Genetics</a> and Illustrator / Printmaker / Owner and Operator at <a href="https://www.instagram.com/spookyprint">Spooky Print</a>.</p>
-		<p>Previously <a href="https://rarebirdinc.com">Rare Bird Inc</a>.</p>
+		<p>Software Engineer at <a href="https://www.logosoftwear.com/">Digital Room / Logo Softwear</a> and Illustrator / Printmaker / Owner and Operator at <a href="https://www.instagram.com/spookyprint">Spooky Print</a>.</p>
+		<p>Previously <a href="https://crigenetics.com/">CRI Genetics</a>.</p>
 		<?php /* <p>&bull;&nbsp;<a href="https://craigbavender.org/assets/resume-CraigBavender-20191208.pdf">Resume / CV</a></br>&bull;&nbsp;<a href="mailto:craigbavender@gmail.com">craigbavender@gmail.com</a></p> */ ?>
 		<p>&bull;&nbsp; Resume / CV (please request)</a></br>&bull;&nbsp; <a href="mailto:craigbavender@gmail.com">craigbavender@gmail.com</a></p>
 	</div>

@@ -13,7 +13,7 @@
 		<h2>About</h2>
 		
 		<p>Programmer and artist living and working in Indianapolis, IN. Illustrator, printmaker, owner and operator at <a href="https://www.instagram.com/spookyprint">Spooky Print</a>.</p>
-		<p>Full Stack Developer + Software Eng Manager at <a href="https://crigenetics.com/">CRI Genetics</a>. Previously <a href="https://rarebirdinc.com">Rare Bird Inc</a>.</p>
+		<p>Software Engineer at <a href="https://www.logosoftwear.com/">Digital Room / Logo Softwear</a>. Previously SWE Manager + Developer at <a href="https://crigenetics.com/">CRI Genetics</a>.</p>
 		<p><a href="https://craigbavender.org/about">Read More &raquo;</a></p>
 	</div>
 	<div class="col-12 homepage-section">
@@ -41,11 +41,9 @@
 		<h2>Archive</h2>
 		
 		<ul>
-			<li><a href="https://craigbavender.org/archive/reading-list-2023">Reading List 2023</a> <span class="faded">(on-going)</span></li>
+			<li><a href="https://craigbavender.org/archive/2024-update">2024 Update</a> <span class="faded">(Mar 17, 2024)</span></li>
+			<li><a href="https://craigbavender.org/archive/reading-list-2023">Reading List 2023</a></li>
 			<li><a href="https://craigbavender.org/archive/reading-list-2021">Reading List 2021</a></li>
-			<li><a href="https://craigbavender.org/archive/reading-list-2020">Reading List 2020</a></li>
-			<li><a href="https://craigbavender.org/archive/new-projects-2020">2020 Projects</a> <span class="faded">(May 30, 2020)</span></li>
-			<li><a href="https://craigbavender.org/archive/newsite">New Site</a> <span class="faded">(Mar 3, 2020)</span></li>
 		</ul>
 		
 		<p><a href="https://craigbavender.org/archive">View All &raquo;</a></p>

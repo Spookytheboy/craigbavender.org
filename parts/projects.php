@@ -13,9 +13,18 @@
 		<h2>Projects</h2>
 
 		<div class="project">
-			<div class="name"><a href="https://craigbavender.org/projects/spookyprintingcompany">spooky printing company</a></div>
+			<div class="name"><a href="https://craigbavender.org/archive/2024-update">game development</a></div>
 			<div class="details">
 				<b>Date:</b> Active<br>
+				<b>Description:</b> 2024 goal of learning GameDev, through personalized micro-projects.<br>
+				<b>Technologies:</b> Godot, using native language GDScript<br>
+			</div>
+		</div>
+
+		<div class="project">
+			<div class="name"><a href="https://craigbavender.org/projects/spookyprintingcompany">spooky printing company</a></div>
+			<div class="details">
+				<b>Date:</b> Hiatus<br>
 				<b>Description:</b> My current and very active illustration and clothing brand.<br>
 				<b>Technologies:</b> BigCartel, Printful, and Procreate<br>
 				<b>Instagram:</b> <a href="https://instagram.com/spookyprint" target="_blank">@spookyprint</a>
